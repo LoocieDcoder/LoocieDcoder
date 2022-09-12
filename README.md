@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LoocieDcoder
-- 👀 I’m interested in Software Enginering
-- 🌱 I’m currently learning Software Enginering
-- 💞️ I’m looking to collaborate on any junior developer
+- 👀 I’m a Software Enginer
+- 💞️ I’m open for working on any great project
 - 📫 How to reach me quaysonlucyofficial@gmail.com
 
 <!---
